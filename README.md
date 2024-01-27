@@ -5,7 +5,8 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=It's%20me%20;Yeah;Look;I%20don't%20know%20what%20to%20write%20here;I%20like%20computers;Sure;Let's%20do%20that&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&duration=2500" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=It's%20me%20;Yeah;Look;I%20don't%20know%20what%20to%20write%20here;I%20like%20computers;Sure;Let's%20do%20that&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&duration=2500" />
+  </a>
 </p>
 
 <!-- Social icons section -->
@@ -21,13 +22,17 @@
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://github.com/yeohvonchang?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yeohvonchang?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yeohvonchang?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
   <a href="https://github.com/yeohvonchang?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/yeohvonchang?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/yeohvonchang?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+  </a>
   <a href="https://github.com/yeohvonchang?tab=views">
-    <img alt="views" title="page view" src="https://view-count-badge.zohan.tech/yeohvonchang/profile?color=6b105d&labelColor=913e96&style=for-the-badge&logo=eye&label=VISITORS&logoColor=white"/></a>
+    <img alt="views" title="page view" src="https://view-count-badge.zohan.tech/yeohvonchang/profile?color=6b105d&labelColor=913e96&style=for-the-badge&logo=eye&label=VISITORS&logoColor=white"/>
+  </a>
   <a href="https://yeohvonchang.github.io">
-    <img alt="downloads" title="Downloads" src="https://custom-icon-badges.demolab.com/badge/5506-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS"/></a>
+    <img alt="downloads" title="Downloads" src="https://custom-icon-badges.demolab.com/badge/5506-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS"/>
+  </a>
 </p>
 
 <p align="center">
@@ -46,12 +51,16 @@
 
 <!-- GitHub Profile Summary Cards - https://github.com/vn7n24fzkq/github-profile-summary-cards/tree/main?tab=readme-ov-file -->
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeohvonchang&theme=tokyonight" alt="yeohvonchang's github stats" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeohvonchang&theme=tokyonight" alt="yeohvonchang's github stats" />
+  </a>
 </p>
 
 <!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=yeohvonchang&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark&locale=cn&card_width=540" alt="yeohvonchang's github stats" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.zohan.tech/api?username=yeohvonchang&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark&locale=cn&card_width=540" alt="yeohvonchang's github stats" />
+  </a>
 </p>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -63,7 +72,9 @@
 
 <!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=yeohvonchang&layout=compact&hide_border=true&theme=tokyonight&locale=cn&card_width=400" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=yeohvonchang&layout=compact&hide_border=true&theme=tokyonight&locale=cn&card_width=400" />
+  </a>
   <!-- <a href="https://wakatime.com/@yeohvonchang"><img align="center" src="https://github-readme-stats.zohan.tech/api/wakatime/?username=yeohvonchang&layout=compact&hide_border=true&theme=tokyonight" /></a> -->
 </p>
 
@@ -84,22 +95,30 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/yeohvonchang/yeohvonchang.github.io"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=yeohvonchang&repo=yeohvonchang.github.io&theme=prussian&hide_border=true"></a>
+  <a href="https://github.com/yeohvonchang/yeohvonchang.github.io">
+    <img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=yeohvonchang&repo=yeohvonchang.github.io&theme=prussian&hide_border=true">
+  </a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/yeohvonchang?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/yeohvonchang?tab=repositories">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
 </p>
 
 ## 📕 Top projects I've contributed to
 
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
-  <a href="https://github.com/yeohvonchang/yeohvonchang.github.io"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=yeohvonchang&repo=yeohvonchang.github.io&theme=prussian&hide_border=true&show_owner=true"></a>
+  <a href="https://github.com/yeohvonchang/yeohvonchang.github.io">
+    <img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=yeohvonchang&repo=yeohvonchang.github.io&theme=prussian&hide_border=true&show_owner=true">
+  </a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/Zo-Bro-23?tab=repositories&type=fork"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  <a href="https://github.com/Zo-Bro-23?tab=repositories&type=fork">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/>
+  </a>
 </p>
 
 ## 🛠️ My favorite tools
