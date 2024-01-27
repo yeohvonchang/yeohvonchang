@@ -1,16 +1,9 @@
-<!--
-<p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
-</p>
--->
-
 <h3 align="center">
   Yeoh Vonchang
 </h3>
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=It's%20me%20;Yeah;Look;I%20don't%20know%20what%20to%20write%20here;I%20like%20computers;Sure;Let's%20do%20that&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&duration=2500" /></a>
 </p>
@@ -24,6 +17,7 @@
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://github.com/yeohvonchang?tab=repositories&sort=stargazers">
@@ -40,6 +34,7 @@
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
 </p>
 
+<!-- Github Readme Quotes - https://github.com/piyushsuthar/github-readme-quotes -->
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img src="https://quotes-github-readme.vercel.app/api?theme=dracula">
@@ -110,7 +105,6 @@
 
 ### 👨‍💻 Programming Languages
 
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <p>
   <a href="https://github.com/search?q=user%3Ayeohvonchang+language%3AC#"><img alt="C#" src="https://img.shields.io/badge/C%23-5800A5.svg?logo=cs&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Ayeohvonchang+language%3AC++"><img alt="C++" src="https://img.shields.io/badge/C++-0078d7.svg?logo=cpp&logoColor=white"></a>
@@ -122,7 +116,6 @@
 
 ### 🧰 Platform and Engine
 
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <p>
   <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078d7.svg?logo=Windows&logoColor=white"></a>
   <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-FF6C37.svg?logo=Ubuntu&logoColor=white"></a>
@@ -133,7 +126,6 @@
 
 ### 💻 Software and Tools
 
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <p>
   <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-9270DB?logo=Visual Studio&logoColor=white"></a>
   <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-0033FF?logo=IntelliJ IDEA&logoColor=white"></a>
