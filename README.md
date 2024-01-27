@@ -36,7 +36,7 @@
 
 <!-- Github Readme Quotes - https://github.com/piyushsuthar/github-readme-quotes -->
 <p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <a href="https://github.com/yeohvonchang?tab=quotes">
     <img src="https://quotes-github-readme.vercel.app/api?theme=dracula">
   </a>
 </p>
