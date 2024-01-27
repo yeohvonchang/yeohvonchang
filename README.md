@@ -62,16 +62,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=yeohvonchang&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="yeohvonchang's github stats" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=yeohvonchang&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark&locale=cn" alt="yeohvonchang's github stats" /></a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="yeohvonchang's streak" src="https://streak-stats.demolab.com/?user=yeohvonchang&theme=onedark&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="yeohvonchang's streak" src="https://streak-stats.demolab.com/?user=yeohvonchang&theme=onedark&hide_border=true&locale=zh_Hans"/>
   </a>
 </p>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=yeohvonchang&layout=compact&hide_border=true&theme=tokyonight" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=yeohvonchang&layout=compact&hide_border=true&theme=tokyonight&locale=cn" /></a>
 <!-- <a href="https://wakatime.com/@yeohvonchang"><img align="center" src="https://github-readme-stats.zohan.tech/api/wakatime/?username=yeohvonchang&layout=compact&hide_border=true&theme=tokyonight" /></a> -->
 </p>
 
