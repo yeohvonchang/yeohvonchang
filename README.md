@@ -60,7 +60,7 @@
 <!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-yfc.vercel.app/api?username=yeohvonchang&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark&locale=cn&card_width=540" alt="yeohvonchang's github stats" />
+    <img align="center" src="https://github-readme-stats.zohan.tech/api?username=yeohvonchang&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark&locale=cn&card_width=540" alt="yeohvonchang's github stats" />
   </a>
 </p>
 
@@ -74,7 +74,7 @@
 <!-- GitHub Readme Stats - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-yfc.vercel.app/api/top-langs/?username=yeohvonchang&layout=compact&hide_border=true&theme=tokyonight&locale=cn&card_width=400" />
+    <img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=yeohvonchang&layout=compact&hide_border=true&theme=tokyonight&locale=cn&card_width=400" />
   </a>
   <!-- <a href="https://wakatime.com/@yeohvonchang"><img align="center" src="https://github-readme-stats.zohan.tech/api/wakatime/?username=yeohvonchang&layout=compact&hide_border=true&theme=tokyonight" /></a> -->
 </p>
@@ -88,7 +88,7 @@
 -->
 
 <a href="https://github.com/yeohvonchang#gh-dark-mode-only" align="center">
-  <img alt="GitHub Snake Dark" src="https://github-readme-stats-yfc.vercel.app/snk.svg?user=yeohvonchang&repo=yeohvonchang&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img alt="GitHub Snake Dark" src="https://github-readme-stats.zohan.tech/snk.svg?user=yeohvonchang&repo=yeohvonchang&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </a>
 
 ## 📘 My top open source projects
@@ -97,7 +97,7 @@
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/yeohvonchang/yeohvonchang.github.io">
-    <img width="278" src="https://github-readme-stats-yfc.vercel.app/api/pin/?username=yeohvonchang&repo=yeohvonchang.github.io&theme=prussian&hide_border=true">
+    <img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=yeohvonchang&repo=yeohvonchang.github.io&theme=prussian&hide_border=true">
   </a>
 </p>
 
@@ -112,7 +112,7 @@
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
   <a href="https://github.com/yeohvonchang/yeohvonchang.github.io">
-    <img width="278" src="https://github-readme-stats-yfc.vercel.app/api/pin/?username=yeohvonchang&repo=yeohvonchang.github.io&theme=prussian&hide_border=true&show_owner=true">
+    <img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=yeohvonchang&repo=yeohvonchang.github.io&theme=prussian&hide_border=true&show_owner=true">
   </a>
 </p>
 
